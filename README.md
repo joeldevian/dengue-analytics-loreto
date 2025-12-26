@@ -6,7 +6,13 @@
 
 Sistema de análisis y predicción de casos de dengue en la región de Loreto, Perú. Dashboard interactivo con análisis exploratorio de datos, visualizaciones profesionales y modelado de series temporales SARIMA para vigilancia epidemiológica.
 
+<!-- 
+Para agregar capturas de pantalla:
+1. Ejecuta: streamlit run app/dashboard.py
+2. Toma capturas y guárdalas en assets/
+3. Descomenta la línea siguiente
 ![Dashboard Preview](assets/dashboard_preview.png)
+-->
 
 ## 🎯 Características
 
@@ -116,7 +122,10 @@ dengue-analytics-loreto/
 - **Modelado**: Statsmodels (SARIMA)
 - **Diseño**: CSS personalizado, Material Icons
 
+<!-- 
 ## 📸 Capturas de Pantalla
+
+Agrega capturas ejecutando el dashboard y guardándolas en assets/
 
 ### Dashboard Principal
 ![Dashboard](assets/dashboard_main.png)
@@ -126,6 +135,7 @@ dengue-analytics-loreto/
 
 ### Análisis Geográfico
 ![Geografico](assets/geographic_analysis.png)
+-->
 
 ## 🎨 Características de Diseño
 
