@@ -1,0 +1,26 @@
+============================================================
+REPORTE DE ANALISIS EXPLORATORIO DE DATOS
+============================================================
+
+Total de casos: 107,074
+Periodo: 2000 - 2024
+Total de anos: 25
+
+Cobertura geografica:
+  - Provincias: 8
+  - Distritos: 53
+
+Estadisticas de edad:
+  - Promedio: 25.2 anos
+  - Mediana: 21.0 anos
+  - Rango: 0 - 104 anos
+
+Tendencias temporales:
+  - Promedio casos/ano: 4283
+  - Ano con mas casos: 2011 (21,245 casos)
+
+Tendencias geograficas:
+  - Provincia con mas casos: MAYNAS
+  - Casos en provincia principal: 71,117
+
+============================================================

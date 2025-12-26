@@ -1,0 +1,27 @@
+# Sistema Inteligente de Análisis y Predicción de Casos de Dengue en el Perú
+# Dependencias del proyecto
+
+# Análisis de datos
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualización
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Modelado de series temporales
+statsmodels==0.14.1
+scipy==1.11.4
+
+# Dashboard interactivo
+streamlit==1.29.0
+
+# Jupyter notebooks
+jupyter==1.0.0
+ipykernel==6.27.1
+ipywidgets==8.1.1
+
+# Utilidades
+python-dateutil==2.8.2
+pytz==2023.3
